@@ -5,6 +5,7 @@ var app = new Vue({
     neueNote: 0,
     avg: 0
   },
+  lol
   methods: {
     addNote: function () {
       this.noten.push(this.neueNote)
